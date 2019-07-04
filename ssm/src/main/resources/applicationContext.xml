@@ -35,6 +35,23 @@
     <bean id="mapperScannerConfigurer" class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="basePackage" value="com.hgj.ssm.dao"/>
     </bean>
+    <!-- 配置Spring 框架声明 式 事务管理 -->
+    <!-- 配置Spring 事务管理器 -->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+    <!-- 配置Spring 事务通知 -->
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
+        <tx:attributes>
+            <tx:method name="find" read-only="true"/>
+            <tx:method name="*" isolation="DEFAULT"/>
+        </tx:attributes>
+        
+    </tx:advice>
+    <!-- 配置Spring 事务Aop 增强 -->
+    <aop:config>
+        <aop:advisor advice-ref="txAdvice" pointcut="execution(* com.hgj.ssm.service.impl.*ServiceImpl.*(..))"/>
+    </aop:config>
 
 
 </beans>
