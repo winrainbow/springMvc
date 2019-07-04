@@ -12,3 +12,5 @@ System.out.println("fileItems:"+fileItems.size());
     <!--<bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
         <property name="maxUploadSize" value="20000000000"/>
     </bean>-->
+## myBatis 调试
+连接mysql数据库时，在xml中配置mysql数据库的Url时，需要注意加在 useSSL=false,以及时区相关的信息，并且注意 & 符号需要使用转义字符
