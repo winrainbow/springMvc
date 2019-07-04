@@ -7,37 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d314d32-daf8-4010-ae2f-bf1dbd28f189" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/resources/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/pages/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ssm/ssm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../ssm/target/" />
@@ -60,20 +32,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ssm/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="564">
-              <caret line="128" column="30" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
+            <state relative-caret-position="-567">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="79" lean-forward="true" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -92,15 +73,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -150,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="294">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -191,8 +163,8 @@
         <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java" />
         <option value="$PROJECT_DIR$/../ssm/pom.xml" />
         <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java" />
-        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java" />
         <option value="$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java" />
       </list>
     </option>
   </component>
@@ -264,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562233552380" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562234806870" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -423,7 +395,7 @@
       <updated>1562165315620</updated>
       <workItem from="1562165317017" duration="852000" />
       <workItem from="1562203820035" duration="1973000" />
-      <workItem from="1562206504559" duration="10826000" />
+      <workItem from="1562206504559" duration="12109000" />
     </task>
     <task id="LOCAL-00001" summary="[增加传统上传方式]使用commonsFileUpload库">
       <created>1562206803081</created>
@@ -432,43 +404,50 @@
       <option name="project" value="LOCAL" />
       <updated>1562206803082</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[ssm框架整合]调试mybatis">
+      <created>1562234004915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562234004915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestService_run - 2019.07.04 at 15h 14m 31s.xml">
-      <configuration name="TestService.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestService_run - 2019.07.04 at 15h 14m 52s.xml">
-      <configuration name="TestService.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 16h 12m 03s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 16h 13m 05s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 24m 04s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 39m 21s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 40m 32s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 42m 50s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 42m 57s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestDao_run - 2019.07.04 at 17h 43m 40s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 17h 43m 54s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 17h 56m 32s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 17h 57m 17s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 17h 57m 41s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 00m 01s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 00m 28s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 00m 57s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 01m 49s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 02m 54s.xml">
       <configuration name="TestDao.run" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13651000" />
+    <option name="totallyTimeSpent" value="14934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -484,7 +463,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4491256" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5055644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24085851" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -550,7 +529,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[增加传统上传方式]使用commonsFileUpload库" />
-    <option name="LAST_COMMIT_MESSAGE" value="[增加传统上传方式]使用commonsFileUpload库" />
+    <MESSAGE value="[ssm框架整合]调试mybatis" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ssm框架整合]调试mybatis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -563,7 +543,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java</url>
-          <line>19</line>
+          <line>21</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -743,23 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="128" column="30" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -770,13 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -784,20 +740,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java">
+    <entry file="file://$PROJECT_DIR$/../ssm/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="79" lean-forward="true" selection-start-line="16" selection-start-column="79" selection-end-line="16" selection-end-column="79" />
+        <state relative-caret-position="-567">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml">
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        <state relative-caret-position="525">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
