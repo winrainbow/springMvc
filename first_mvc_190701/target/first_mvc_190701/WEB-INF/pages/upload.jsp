@@ -8,9 +8,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>uplodaFile</title>
+    <title>uploadFile</title>
 </head>
 <body>
+<form action="upload1" method="post" enctype="multipart/form-data" style="margin-top: 10px">
+    <input type="file" name="upload1" style="margin-bottom: 30px"/><br/>
+    <input type="submit" value="传统上传">
+</form>
 <form action="upload" method="post" enctype="multipart/form-data" style="margin-top: 10px">
     <input type="file" name="upload" style="margin-bottom: 30px"/><br/>
     <input type="submit" value="上传">
