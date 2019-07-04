@@ -8,8 +8,15 @@
   <component name="ChangeListManager">
     <list default="true" id="6d314d32-daf8-4010-ae2f-bf1dbd28f189" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/domain/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/impl/AccountServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/src/main/resources/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/resources/spring-mvc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/pages/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/pages/list.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../ssm/target/" />
@@ -30,21 +37,74 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ssm/pom.xml">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-567">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="260">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/spring-mvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="24" column="71" lean-forward="true" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/pages/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+            <state relative-caret-position="336">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/domain/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#358#359#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,68 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.5/mybatis-3.4.5.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
+              <caret line="14" column="60" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="14" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -122,8 +122,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="252">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/AccountService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/impl/AccountServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,20 +175,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hgj/controller/FirstController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/upload.jsp" />
         <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/domain/Account.java" />
         <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/AccountService.java" />
-        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/impl/AccountServiceImpl.java" />
         <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestService.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/../ssm/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/pages/list.jsp" />
-        <option value="$PROJECT_DIR$/../ssm/src/main/resources/spring-mvc.xml" />
         <option value="$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java" />
         <option value="$PROJECT_DIR$/../ssm/pom.xml" />
-        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java" />
         <option value="$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml" />
         <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java" />
+        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/domain/Account.java" />
+        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java" />
+        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../ssm/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/../ssm/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/pages/list.jsp" />
       </list>
     </option>
   </component>
@@ -183,8 +208,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="390" />
-    <option name="y" value="177" />
+    <option name="x" value="364" />
+    <option name="y" value="200" />
     <option name="width" value="2005" />
     <option name="height" value="1033" />
   </component>
@@ -219,7 +244,110 @@
               <item name="ssm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hgj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hgj" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hgj" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hgj" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hgj" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="hgj" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="first_mvc_190701" type="b2602c69:ProjectViewProjectNode" />
@@ -236,7 +364,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562234806870" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562240897094" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -265,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestDao.run">
+  <component name="RunManager" selected="Tomcat Server.mvc">
     <configuration name="TestDao.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ssm" />
       <extension name="coverage">
@@ -300,7 +428,7 @@
     </configuration>
     <configuration name="mvc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ssm_war/" />
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="ssm:war">
           <settings>
@@ -395,7 +523,7 @@
       <updated>1562165315620</updated>
       <workItem from="1562165317017" duration="852000" />
       <workItem from="1562203820035" duration="1973000" />
-      <workItem from="1562206504559" duration="12109000" />
+      <workItem from="1562206504559" duration="16716000" />
     </task>
     <task id="LOCAL-00001" summary="[增加传统上传方式]使用commonsFileUpload库">
       <created>1562206803081</created>
@@ -411,31 +539,17 @@
       <option name="project" value="LOCAL" />
       <updated>1562234004915</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[ssm框架整合][mybatis调试成功]需要在sqlMapConfig.xml中配置mysql url 时，增加 useSSL=false,以及时区相关，注意 &amp; 使用转义符">
+      <created>1562234959546</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562234959546</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 43m 40s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 43m 54s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 56m 32s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 57m 17s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 17h 57m 41s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 18h 00m 01s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDao_run - 2019.07.04 at 18h 00m 28s.xml">
-      <configuration name="TestDao.run" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestDao_run - 2019.07.04 at 18h 00m 57s.xml">
       <configuration name="TestDao.run" configurationId="JUnit" />
     </history-entry>
@@ -445,15 +559,36 @@
     <history-entry file="TestDao_run - 2019.07.04 at 18h 02m 54s.xml">
       <configuration name="TestDao.run" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 05m 20s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 06m 04s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 12m 45s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 13m 06s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 23m 52s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 25m 23s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDao_run - 2019.07.04 at 18h 25m 44s.xml">
+      <configuration name="TestDao.run" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14934000" />
+    <option name="totallyTimeSpent" value="19541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3199523" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17766295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -463,7 +598,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5055644" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2782194" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24085851" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,7 +665,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[增加传统上传方式]使用commonsFileUpload库" />
     <MESSAGE value="[ssm框架整合]调试mybatis" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ssm框架整合]调试mybatis" />
+    <MESSAGE value="[ssm框架整合][mybatis调试成功]需要在sqlMapConfig.xml中配置mysql url 时，增加 useSSL=false,以及时区相关，注意 &amp; 使用转义符" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ssm框架整合][mybatis调试成功]需要在sqlMapConfig.xml中配置mysql url 时，增加 useSSL=false,以及时区相关，注意 &amp; 使用转义符" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -623,72 +759,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/domain/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/impl/AccountServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ssm/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/pages/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -703,16 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,30 +818,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml">
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/domain/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="538">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/test/TestDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        <state relative-caret-position="260">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="60" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/java/com/hgj/ssm/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="24" column="71" lean-forward="true" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ssm/src/main/webapp/WEB-INF/pages/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>

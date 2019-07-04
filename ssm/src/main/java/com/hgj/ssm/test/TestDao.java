@@ -21,12 +21,16 @@ public class TestDao {
 
         SqlSession sqlSession = factory.openSession();
         AccountDao dao = sqlSession.getMapper(AccountDao.class);
+        Account account = new Account();
+        account.setName("test1");
+        account.setMoney(100.99);
+        dao.saveAccount(account);
+        sqlSession.commit();
         List<Account> all = dao.findAll();
-        if(all!=null){
-            System.out.println("test all.size="+all.size());
-        }else{
-            System.out.println("test all is null");
+        for(Account ac:all){
+            System.out.println("ac:"+ac.toString());
         }
+
         sqlSession.close();
         stream.close();
     }
